@@ -23,8 +23,10 @@ function Header() {
 
         <div className="header_right">
           <ul>
-            <li></li>
-            <li></li>
+            <li>searchIcon</li>
+            <li>NotificationNoneIcon</li>
+            <li>AccountBoxIcon</li>
+            <li>ArrowDropDownIcon</li>
             <li></li>
             <li></li>
             <li></li>
